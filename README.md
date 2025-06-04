@@ -21,6 +21,8 @@ It shows real-time system info like:
 Perfect for:
 - Setup aesthetics
 - Idle screens
+- ![image](https://github.com/user-attachments/assets/261539ab-90f7-44f6-a702-e90e41b4f3f6)
+
 
 ---
 
