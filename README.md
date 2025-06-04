@@ -2,7 +2,7 @@
 
 A techy-modern fullscreen screensaver-style dashboard for your desktop.
 
-![Dashlayer Logo](.assets/Dashlayer%20Logo%20Icon.png)
+![Dashlayer Logo](assets/Dashlayer%20Logo%20Icon.png)
 
 ---
 
