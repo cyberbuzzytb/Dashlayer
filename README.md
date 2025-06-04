@@ -26,7 +26,7 @@ Perfect for:
 
 ## 🔧 Installation
 
-1. Download the `.exe` file 👉 
+1. Download the `.exe` file 👉 ![Dashlayer.Setup.v1.0.0.exe](https://github.com/cyberbuzzytb/Dashlayer/releases/download/v1.0.0/Dashlayer.Setup.v1.0.0.exe)
 2. Run the installer  
 3. Launch from Desktop or Start Menu  
 4. Sit back and vibe 🌌
