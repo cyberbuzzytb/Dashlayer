@@ -42,7 +42,7 @@ Perfect for:
 
 ## 👤 Developer
 
-**S Neeraj Kumar**  
+**Cyber Buzz**  
 
 ---
 
