@@ -2,7 +2,8 @@
 
 A techy-modern fullscreen screensaver-style dashboard for your desktop.
 
-![image](https://github.com/user-attachments/assets/261539ab-90f7-44f6-a702-e90e41b4f3f6)
+<img width="490" height="312" alt="welcome" src="https://github.com/user-attachments/assets/fbb594b2-ff82-4f22-8422-f33a2d802f11" />
+
 
 ---
 
