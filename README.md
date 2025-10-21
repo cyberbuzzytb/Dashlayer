@@ -36,7 +36,8 @@ Perfect for:
 
 ## 📸 Screenshot
 
-> ![image](https://github.com/user-attachments/assets/1b6ae47d-9bb4-4282-963d-05a475b3eefd)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/07b6fdbc-1881-4172-931e-6849301a4972" />
+
 
 
 ---
