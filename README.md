@@ -1,56 +1,136 @@
 # 💠 Dashlayer
 
-A techy-modern fullscreen screensaver-style dashboard for your desktop.
+### *Your Desktop. But Make It Aesthetic.*
 
-<img width="490" height="312" alt="welcome" src="https://github.com/user-attachments/assets/fbb594b2-ff82-4f22-8422-f33a2d802f11" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fbb594b2-ff82-4f22-8422-f33a2d802f11" width="720"/>
+</p>
 
-
----
-
-## 📦 About
-
-**Dashlayer** is a futuristic system dashboard built to vibe.  
-It shows real-time system info like:
-
-- 🕒 Time & Date  
-- 🌡️ Temperature Monitor  
-- 🎙️ Microphone Audio Levels  
-- 🌍 Weather (auto fetch)  
-- 🧠 Stable + Monitored Status  
-- 🔗 Quick Access to Socials
-
-Perfect for:
-- Setup aesthetics
-- Idle screens
+Dashlayer is a premium fullscreen **visual dashboard layer** that instantly transforms your Windows desktop into a clean, modern, aesthetic display. Perfect for setups, idle screens, and anyone who wants a desktop that looks *intentional*.
 
 ---
 
-## 🔧 Installation
+## ✨ What is Dashlayer?
 
-1. Download the `.exe` file 👉 [Latest Release](https://github.com/cyberbuzzytb/Dashlayer/releases/latest)
-2. Run the installer  
-3. Launch from Desktop or Start Menu  
-4. Sit back and vibe 🌌
+Dashlayer is a **desktop makeover layer** — not an OS, not a launcher, not a productivity app.
+It hides clutter and replaces it with a beautiful, futuristic dashboard featuring:
 
----
+* 🕒 **Live Time & Date**
+* 🌍 **Auto Weather Fetching**
+* 🎙️ **Microphone Level Visualization**
+* 🔗 **Quick Access Shortcuts**
+* 🧊 **Glassmorphism UI**
+* 🎞️ **Smooth Transitions**
 
-## 📸 Screenshot
-
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/07b6fdbc-1881-4172-931e-6849301a4972" />
-
-
-
----
-
-## 👤 Developer
-
-**Cyber Buzz**  
+Designed to give your desktop a clean, premium look in one click.
 
 ---
 
-## 🧾 License
+## 🖥️ Showcase
 
-Free for personal use. Do not repackage or resell.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/07b6fdbc-1881-4172-931e-6849301a4972" width="100%" />
+</p>
 
 ---
 
+## 📥 Installation (Simple)
+
+1. Go to the **Latest Release**
+   👉 [https://github.com/cyberbuzzytb/Dashlayer/releases/latest](https://github.com/cyberbuzzytb/Dashlayer/releases/latest)
+2. Download the `.exe` installer
+3. Run it
+4. Launch Dashlayer
+5. Enjoy the aesthetic ✨
+
+---
+
+## 📦 Release Notes
+
+### **v1.0.3 — Soundscapes + LumaFlip**
+
+* Added **Ambient Soundscapes**
+* Added **LumaFlip Transition Animation**
+* Weather reliability improvements
+* Minor UI polish and stability fixes
+
+### **v1.0.2 — Settings + Night Mode**
+
+* Added full settings window
+* Night Mode customization
+* UI spacing & clarity improvements
+
+### **v1.0.1 — Navigation Update**
+
+* New three-line menu
+* Better card spacing
+* Layout improvements
+
+### **v1.0.0 — First Public Release**
+
+* Time, Temp, Weather, Mic Levels
+* Dashboard mode
+* Base glassmorphism UI
+
+---
+
+## 🛣️ Upcoming Features (Not Final)
+
+These features are under consideration — **may or may not come**:
+
+* **Online Streaming Ambient Backgrounds**
+  (Replacing built-in soundscapes with cloud-based ambience to reduce space consumption.)
+
+* **More Dashboard Themes & Visual Presets**
+
+This section will be updated as ideas evolve without prior notifications.
+
+---
+
+## 📝 License
+
+Dashlayer is **free for personal use**.
+
+You **may**:
+
+* Install and use Dashlayer on your personal computer
+* Showcase Dashlayer in photos, videos, or streams
+* Share the official GitHub release link with others
+
+You **may NOT**:
+
+* Repackage, modify, or edit the software
+* Sell Dashlayer or include it in paid bundles
+* Upload Dashlayer installers to other websites
+* Claim Dashlayer as your own product
+* Reverse-engineer or attempt to extract source code
+* Use Dashlayer for commercial deployment (shops, kiosks, companies) without permission
+
+If you need special usage (like kiosk mode or school/organization use), contact at the email provided.
+
+---
+
+## 💬 Feedback & Feature Requests
+
+Have ideas or found issues? Submit them here:
+👉 **[https://tally.so/r/mOW5kg](https://tally.so/r/mOW5kg)**
+
+---
+
+## 📱 Creator
+
+**Cyber Buzz**
+Instagram: **[@cyberbuzzytb](https://instagram.com/cyberbuzzytb)**
+
+---
+
+## ❤️ Support Dashlayer
+
+The best support is sharing it with your friends or posting your aesthetic setups online.
+
+---
+
+<p align="center">
+  <b>An independent product, thoughtfully built in India 🇮🇳</b><br>
+  <b>भारत में निर्मित 🇮🇳</b>
+</p>
