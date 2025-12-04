@@ -1,6 +1,12 @@
 # 💠 Dashlayer
 
-### *Your Desktop. But Make It Aesthetic.*
+
+<h3 align="center">
+  <b><i>Your Desktop. But Make It Aesthetic.</i></b>
+</h3>
+
+
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fbb594b2-ff82-4f22-8422-f33a2d802f11" width="720"/>
