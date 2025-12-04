@@ -130,6 +130,14 @@ The best support is sharing it with your friends or posting your aesthetic setup
 ---
 
 <p align="center">
+  📬 <b>Contact Us</b><br>
+  <a href="mailto:dashlayer.dev@zohomail.in">dashlayer.dev@zohomail.in</a>
+</p>
+
+
+---
+
+<p align="center">
   <b>An independent product, thoughtfully built in India 🇮🇳</b><br>
   <b>भारत में निर्मित 🇮🇳</b>
 </p>
