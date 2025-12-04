@@ -18,7 +18,6 @@ It hides clutter and replaces it with a beautiful, futuristic dashboard featurin
 * 🕒 **Live Time & Date**
 * 🌍 **Auto Weather Fetching**
 * 🎙️ **Microphone Level Visualization**
-* 🔗 **Quick Access Shortcuts**
 * 🧊 **Glassmorphism UI**
 * 🎞️ **Smooth Transitions**
 
